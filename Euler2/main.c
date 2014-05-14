@@ -12,7 +12,7 @@
  * 
  */
 int main() {
-    printf("NEvin Was Here");
+    printf("NEvin Was Here\n");
     return (EXIT_SUCCESS);
 }
 
