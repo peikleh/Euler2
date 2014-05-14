@@ -11,8 +11,8 @@
 /*
  * 
  */
-int main(int argc, char** argv) {
-
+int main() {
+    printf("NEvin Was Here");
     return (EXIT_SUCCESS);
 }
 
